@@ -1,12 +1,12 @@
-### 📚 Computer Science Graduate Student @ University of Maryland, Baltimore County
+### 📚 PhD Student in Computer Science @ University of Maryland, Baltimore County
 
-#### 💻 Currently researching in Grounding of Language through Visual Percepts
+#### 💻 Currently researching in Grounding of Language through Visual Percepts, Corpus Generation through Automated Textual Documents
 #### 🤝 I’m looking to collaborate on Text Extraction/Text Detection/OCR Optimization via tools or Deep Learning Methods
 
 ### 💪 Skills
 - **Languages:**
-  - **Intermediate:** JAVA, Python, HTML, CSS, JavaScript, PL/SQL, MySQL, XML, JSON, jQuery
-  - **Experience With:** C++, AngularJS, PHP
+  - **Intermediate:** Python, JAVA, PL/SQL, MySQL, XML, JSON
+  - **Web:** HTML, CSS, JavaScript, jQuery
 
 - **Tools and Technologies:**
   - **Libraries:** Struts 2.x, Hibernate ORM, Bootstrap, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, pyttsx, BeautifulSoup, Selenium(Python)
