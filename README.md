@@ -18,6 +18,14 @@
 - 📫 How to reach me: akashvartak.1995@gmail.com
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/akash-vartak-b670a9102/)
 
+
+<div align="center" vertical-align="middle">
+    <a href="https://github.com/akash-vartak" targer="_blank"> 
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash-vartak&show_icons=true&theme=highcontrast&disable_animations=false"> &nbsp;
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-vartak&layout=compact&theme=merko&langs_count=6&hide=ShaderLab"> 
+    </a>
+</div>
+
 <!--
 **akash-vartak/akash-vartak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
