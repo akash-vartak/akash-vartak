@@ -23,8 +23,13 @@ My past research includes **Using Text to Improve Classification of Man-Made Obj
 
 <div align="center" vertical-align="middle">
     <a href="https://github.com/akash-vartak" targer="_blank"> 
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash-vartak&show_icons=true&theme=highcontrast&disable_animations=false"> &nbsp;
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-vartak&layout=compact&theme=merko&langs_count=6&hide=ShaderLab"> 
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-vartak&layout=compact&langs_count=8&hide=ShaderLab&bg_color=ffffff&card_width=350"> 
+    </a>
+</div>
+
+<div align="center" vertical-align="middle">
+    <a href="https://github.com/akash-vartak" targer="_blank"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=akash-vartak&row=2&margin-w=15&margin-h=15&no-frame=false&title=MultiLanguage&title=Followers&title=Experience&title=Repositories&title=Stars&title=PullRequest&title=Issues&title=Commits"> 
     </a>
 </div>
 
