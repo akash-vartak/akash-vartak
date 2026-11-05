@@ -28,6 +28,19 @@ During my Masters I worked on **Using Text to Improve Classification of Man-Made
     </a>
 </div>
 
+<div align="center" vertical-align="middle">
+    <a href="https://github.com/akash-vartak" targer="_blank"> 
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-vartak&theme=github_dark"> 
+    </a>
+</div>
+
+<div align="center" vertical-align="middle">
+    <a href="https://github.com/akash-vartak" targer="_blank"> 
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-vartak&theme=dracula"> 
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-vartak&theme=dracula"> 
+    </a>
+</div>
+
 <!-- <div align="center" vertical-align="middle">
     <a href="https://github.com/akash-vartak" targer="_blank"> 
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-vartak&layout=compact&langs_count=8&hide=ShaderLab&bg_color=ffffff&card_width=350"> 
