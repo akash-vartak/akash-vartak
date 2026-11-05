@@ -37,7 +37,7 @@ During my Masters I worked on **Using Text to Improve Classification of Man-Made
 <div align="center" vertical-align="middle">
     <a href="https://github.com/akash-vartak" targer="_blank"> 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-vartak&theme=dracula"> 
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-vartak&theme=dracula"> 
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-vartak&theme=dracula"> 
     </a>
 </div>
 
